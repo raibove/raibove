@@ -25,7 +25,8 @@ You all can connect with me on my social media accounts.
 </br>
 
 -----
-
+<!--
 [![Shweta's github stats](https://github-readme-stats.vercel.app/api?username=raibove&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraibove)](https://hits.seeyoufarm.com)
+-->
