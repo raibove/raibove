@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Shweta Kale (a.k.a raibove).
+My name is Shweta Kale.
 
 - :computer: Full Stack Developer 
 - 💚: I have worked on projects using Reactjs, Node.js, Flask, HTML.
