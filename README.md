@@ -12,8 +12,8 @@ My name is Shweta Kale.
 
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://raibove.hashnode.dev/my-first-development-job-at-a-startup-my-story"><b>My first development job at a startup: My story</b></a><br/><i>My experience of interning in a startup for 1+ year</i>
-  <li><a href="https://raibove.hashnode.dev/clearthoughts-express-yourself-more-clearly-completely-and-effectively"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> clearThoughts - Express yourself more clearly, completely, and effectively</b></a><br/><i>Improve your communication skill with help of clearThoughts.</i></li>
+  <li><a href="https://shwetakale.hashnode.dev/my-first-development-job-at-a-startup-my-story"><b>My first development job at a startup: My story</b></a><br/><i>My experience of interning in a startup for 1+ year</i>
+  <li><a href="https://shwetakale.hashnode.dev/clearthoughts-express-yourself-more-clearly-completely-and-effectively"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> clearThoughts - Express yourself more clearly, completely, and effectively</b></a><br/><i>Improve your communication skill with help of clearThoughts.</i></li>
 </ul>
 
 ----
