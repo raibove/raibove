@@ -8,18 +8,19 @@ Learn.Build.Repeat
 
 ⤷ I am a full stack developer with a major focus on front-end. During my free time, I enjoy exploring new products and learning new technology.
 
-⚐ Based in the system
+⚐ Based in the India
 
 ϟ Currently Building Zesto
 
-ϟ Recently Participated in Wilco Hakathon
+ϟ Recently got first place in Wilco Quest Builder Hakathon
 
  
 ---- 
 
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://shwetakale.hashnode.dev/my-first-development-job-at-a-startup-my-story"><b>My first development job at a startup: My story</b></a><br/><i>My experience of interning in a startup for 1+ year</i>
+ <li><a href="https://shwetakale.hashnode.dev/from-solving-to-creating"><b>From Solving to Creating</b></a><br/><i>My experience of participating in Wilco Quest Builder Hackathon</i></li>
+  <li><a href="https://shwetakale.hashnode.dev/my-first-development-job-at-a-startup-my-story"><b>My first development job at a startup: My story</b></a><br/><i>My experience of interning in a startup for 1+ year</i></li>
   <li><a href="https://shwetakale.hashnode.dev/clearthoughts-express-yourself-more-clearly-completely-and-effectively"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> clearThoughts - Express yourself more clearly, completely, and effectively</b></a><br/><i>Improve your communication skill with help of clearThoughts.</i></li>
 </ul>
 
