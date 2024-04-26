@@ -6,11 +6,11 @@ My name is Shweta Kale.
 <br/>
 Learn.Build.Repeat
 
-⤷ I am a full stack developer with a major focus on front-end. During my free time, I enjoy exploring new products and learning new technology.
+⤷ I am a software developer, who loves working on side projects and enjoy participating in hackathon during my free time. 
 
 ⚐ Based in the India
 
-ϟ Currently Building Zesto
+ϟ Currently working at [Sharefable](https://www.sharefable.com/)
 
 ϟ Recently got first place in Wilco Quest Builder Hakathon
 
@@ -19,9 +19,9 @@ Learn.Build.Repeat
 
 <h3>My latest posts</h3>
 <ul>
+ <li><a href="https://dev.to/shweta/remy-rhymes-crafting-dope-bars-with-ai-plb"><b>Remy Rhymes: Crafting Dope Bars with AI</b></a></li>
  <li><a href="https://shwetakale.hashnode.dev/from-solving-to-creating"><b>From Solving to Creating</b></a><br/><i>My experience of participating in Wilco Quest Builder Hackathon</i></li>
   <li><a href="https://shwetakale.hashnode.dev/my-first-development-job-at-a-startup-my-story"><b>My first development job at a startup: My story</b></a><br/><i>My experience of interning in a startup for 1+ year</i></li>
-  <li><a href="https://shwetakale.hashnode.dev/clearthoughts-express-yourself-more-clearly-completely-and-effectively"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> clearThoughts - Express yourself more clearly, completely, and effectively</b></a><br/><i>Improve your communication skill with help of clearThoughts.</i></li>
 </ul>
 
 ----
